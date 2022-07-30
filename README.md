@@ -4,7 +4,9 @@
 
 https://github.com/coding-to-music/digitalocean_exporter
 
-From / By
+From / By Andrew Starr-Bochicchio https://github.com/andrewsomething
+
+https://github.com/andrewsomething/digitalocean_exporter
 
 ## Environment variables:
 
