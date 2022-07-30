@@ -1,0 +1,21 @@
+{
+  "name": "digitalocean_exporter",
+  "version": "1.0.0",
+  "description": "# 🚀 a Prometheus exporter for DigitalOcean resources 🚀",
+  "main": "index.js",
+  "scripts": {
+    "deploy": "git add . && git commit -m Build && git push",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/andrewsomething/digitalocean_exporter.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/andrewsomething/digitalocean_exporter/issues"
+  },
+  "homepage": "https://github.com/andrewsomething/digitalocean_exporter#readme"
+}
